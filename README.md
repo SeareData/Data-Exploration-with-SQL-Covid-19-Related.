@@ -1,4 +1,4 @@
-# My-Portfolio-1-of-5
+# data Exploration with SQL/Covid-19 Related. 
 --In this project I will answer the following data analysis questions.
 (1) Covid-19 Total Cases Vs Total Deaths by Country?
 (2) Likelyhood of dying from Covid-19 in Canada if you contract covid-19 virus?
